@@ -9728,10 +9728,10 @@ textarea {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: #306ee8;
-  background: -webkit-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: -o-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: linear-gradient(140deg, #306ee8 0%, #3038e8 100%);
+  background: #2d3952;
+  background: -webkit-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+  background: -o-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+  background: linear-gradient(140deg, #2d3952 0%, #212a3b 100%);
   overflow: hidden; }
   .hero .blob {
     position: absolute;
@@ -9792,10 +9792,10 @@ textarea {
 
 .sec-features {
   background-color: #306EE8;
-  background: #306ee8;
-  background: -webkit-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: -o-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: linear-gradient(140deg, #306ee8 0%, #3038e8 100%);
+  background: #2d3952;
+  background: -webkit-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+  background: -o-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+  background: linear-gradient(140deg, #2d3952 0%, #212a3b 100%);
   overflow: hidden; }
   .sec-features .feature [class^="bi-"] {
     -webkit-box-flex: 0;
@@ -9868,10 +9868,10 @@ textarea {
   .sec-cta.overlay {
     position: relative; }
     .sec-cta.overlay:before {
-      background: #306ee8;
-      background: -webkit-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-      background: -o-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-      background: linear-gradient(140deg, #306ee8 0%, #3038e8 100%);
+      background: #2d3952;
+      background: -webkit-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+      background: -o-linear-gradient(310deg, #2d3952 0%, #212a3b 100%);
+      background: linear-gradient(140deg, #2d3952 0%, #212a3b 100%);
       opacity: .9;
       overflow: hidden;
       content: "";
@@ -10221,10 +10221,10 @@ textarea {
     color: #fff; }
 
 .site-footer {
-  background: #306ee8;
-  background: -webkit-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: -o-linear-gradient(310deg, #306ee8 0%, #3038e8 100%);
-  background: linear-gradient(140deg, #306ee8 0%, #3038e8 100%);
+  background: #2d3952;
+  background: -webkit-linear-gradient(310deg, #2d3952 0%, #2d3952 100%);
+  background: -o-linear-gradient(310deg, #2d3952 0%, #2d3952 100%);
+  background: linear-gradient(140deg, #2d3952 0%, #2d3952 100%);
   font-size: 14px;
   padding: 70px 0;
   color: white; }

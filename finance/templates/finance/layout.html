@@ -1,12 +1,10 @@
 {% load static %}
-{% load tailwind_tags %}
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% tailwind_css %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,7 +29,7 @@
                 <div class="site-navigation">
                     <div class="row g-0 align-items-center">
                         <div class="col-2">
-                            <a class="logo m-0 float-start" href="{% static 'finance/index.html' %}">Trustpoint<span class="text-primary">.</span></a>
+                            <a class="logo m-0 float-start" href="{% url 'index' %}">Trustpoint<span class="text-primary">.</span></a>
                         </div>
                         <div class="col-8 text-center ">
                             <ul class="d-none d-lg-inline-block text-start site-menu mx-auto">
@@ -116,14 +114,8 @@
 
 		<div class="row mt-5">
 			<div class="col-12 text-center">
-					<!-- 
-              **==========
-              NOTE: 
-              Please don't remove this copyright link unless you buy the license here https://untree.co/license/  
-              **==========
-            -->
 
-            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> <!-- License information: https://untree.co/license/ -->
+            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash;<a href="https://untree.co">Trustpoint</a>
             </p>
           </div>
         </div>

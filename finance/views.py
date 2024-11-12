@@ -16,3 +16,9 @@ def contact(request):
 
 def about(request):
     return render(request, 'finance/about.html')
+
+def login(request):
+    return render(request, 'finance/login.html')
+
+def register(request):
+    return render(request, 'finance/register.html')
